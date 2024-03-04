@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    height:  200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 2rem;
+    background-color: black;
+    margin: 2rem;
+    color: white;
+}
+
+main h2 {
+    margin-bottom: 1rem;
+}
+
+
+#vid {
+    width: 100%;
+}
+
+#image img {
+    width: 100%;
+    height: auto;
+}
+
+#intro{
+    color:white;
+    text-align: center;
+}
